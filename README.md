@@ -1,1 +1,1 @@
-#This is a News App Made wit5h the Help of React JS
+# This is a News App Made wit5h the Help of React JS
